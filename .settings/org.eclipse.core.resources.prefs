@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/admin/manage_employers.jsp=UTF-8
+encoding//src/main/webapp/admin/manage_jobs.jsp=UTF-8
+encoding//src/main/webapp/admin/manage_seekers.jsp=UTF-8
+encoding//src/main/webapp/admin/reports.jsp=UTF-8
+encoding//src/main/webapp/admin/view_applications.jsp=UTF-8
+encoding//src/main/webapp/employer/applicants.jsp=UTF-8
+encoding//src/main/webapp/employer/view_jobs.jsp=UTF-8
+encoding//src/main/webapp/logout.jsp=UTF-8
+encoding//src/main/webapp/seeker/applications.jsp=UTF-8
+encoding/<project>=UTF-8

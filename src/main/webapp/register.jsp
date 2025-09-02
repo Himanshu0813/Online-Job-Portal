@@ -102,6 +102,7 @@
                 <option value="seeker">Job Seeker</option>
             </select>
             <input type="submit" value="Register"/>
+            <a href="index.jsp">Back</a>
         </form>
     </div>
 </div>

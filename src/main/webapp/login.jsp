@@ -98,6 +98,7 @@
                 <option value="admin">Admin</option>
             </select>
             <input type="submit" value="Login" />
+            <a href="index.jsp">Back</a>
         </form>
     </div>
 </div>
